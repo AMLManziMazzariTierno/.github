@@ -1,4 +1,4 @@
-# .github
+# Advanced Machine Learning course 2022/23, Polytechnic University of Turin
 
 ## Link to Colab projects:
 
