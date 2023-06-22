@@ -10,4 +10,4 @@
 - Fedsam: https://github.com/debcaldarola/fedsam
 - FedMD official repository: https://github.com/diogenes0319/FedMD_clean
 - FedMD repository (PyTorch implementation): https://github.com/HongshengHu/SIAs-Beyond_MIAs_in_Federated_Learning/tree/095b753d0739ae3d7683114739d48fec8d8094ff/FedMD-SIAs
-- Fed-CCVR: https://github.com/smduan/Fed-CCVR
+- Fed-CCVR (standalone): https://github.com/smduan/Fed-CCVR
